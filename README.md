@@ -1,3 +1,3 @@
 # Resume
 
-Resume of BulletTech: https://bullettech2021.github.io/Resume/home/
+This is the resume of Ziqing Wang.
