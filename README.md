@@ -1,3 +1,3 @@
-# Resume
+# CV
 
-This is the resume of Ziqing Wang.
+This is the CV of Ziqing Wang.
