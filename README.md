@@ -1,3 +1,3 @@
-# CV
+# Personal Site
 
-This is the CV of Ziqing Wang.
+This is the Personal Site of Ziqing Wang.
